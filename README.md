@@ -27,3 +27,6 @@ https://docs.google.com/spreadsheets/d/1Hx0b_9-f8rnvQr55x-TjVsN_HQ2COmJh6LtLqok6
 As evidências dos testes estão neste link:
 
 https://drive.google.com/drive/u/1/folders/1NtOzP96cInxLohH5MDubjv6QRfiKIGir
+
+Durante os testes foram avaliados cenários de cadastro e validação de campos.
+Alguns comportamentos inesperados foram analisados durante os testes documentados na planilha.
