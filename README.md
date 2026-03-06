@@ -21,7 +21,6 @@ Exibição correta dos cursos na lista
 Os casos de teste estão documentados no link da planilha:
 
 https://docs.google.com/spreadsheets/d/1Hx0b_9-f8rnvQr55x-TjVsN_HQ2COmJh6LtLqok6VVs/edit?gid=0#gid=0
-
 ## Evidências
 
 As evidências dos testes estão neste link:
